@@ -1,4 +1,3 @@
-
 const StudentRoll = require("../models/StudentRoll");
 
 exports.GetAllStudentRollDetail = async (req, res) => {
