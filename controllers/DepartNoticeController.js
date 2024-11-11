@@ -1,4 +1,4 @@
-const DepartNotice = require("../models/DepartmentNotice");
+const DepartNotice = require("../models/departmentNotice");
 
 exports.getAllNotice = async (req, res) => {
   try {
