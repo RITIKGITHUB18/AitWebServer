@@ -1,4 +1,4 @@
-const FacultyOrStaff = require("../models/FacultyStaff");
+const FacultyOrStaff = require("../models/facultyStaff");
 
 exports.getAllFacultyOrStaff = async (req, res) => {
   try {
