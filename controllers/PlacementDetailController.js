@@ -1,4 +1,4 @@
-const PlacementDetail = require("../models/PlacementDetail");
+const PlacementDetail = require("../models/placementDetail");
 
 exports.GetAllPlacementDetail = async (req, res) => {
   try {
